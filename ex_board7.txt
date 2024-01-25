@@ -1,0 +1,24 @@
+black
+WK h1
+WR f1
+WR e1
+WQ c1
+WB a1
+WP g2
+BN f3
+WP b3
+BN g4
+WN f4
+WB e4
+BP d4
+WP a4
+BP a5
+BP g6
+BP c6
+BP h7
+BB g7
+BR f7
+BP b7
+BK h8
+BR e8
+BQ d8

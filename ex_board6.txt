@@ -1,0 +1,10 @@
+white
+WK g8
+BR d7
+BK f6
+BR h6
+BP f5
+WP f4
+WN g3
+WR e1
+WR g1
